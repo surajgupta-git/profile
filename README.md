@@ -1,66 +1,86 @@
+# Hi there 👋, I'm Suraj Gupta
 
+### Senior Software Engineer | AI & Cloud Native Applications | AWS | Distributed Systems | Full Stack Engineering
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Thanks for taking a peek! 🥳
-![Name gif](https://github.com/surajgupta-git/surajgupta-git/blob/main/name.gif)
+I'm a Software Development Engineer with 6+ years of experience building scalable distributed systems, cloud-native platforms, and AI-powered applications. Currently working at Amazon, where I design and develop high-performance services, event-driven architectures, intelligent search solutions, and Generative AI products that serve customers at scale.
 
-<p align="left"> 
-  <img src=https://komarev.com/ghpvc/?username=surajgupta-git alt=surajgupta/> &nbsp; 
-  <a href="https://www.linkedin.com/in/surajguptagudla/">
-    <img src="https://img.shields.io/badge/SurajGupta-blue?style=flat&logo=linkedin">
-  </a> &nbsp;    
-</p>
-
- --- 
-
-
-### Who am I ?? <br/>
-#### 🎓 Computer Science Graduate Student at [Indiana University Bloomington](https://cs.indiana.edu/)<br>
-#### 👩‍💻 Software engineer with 6 years of professional experience committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
-#### ⚡ A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems. <br>
-#### ❤ I enjoy coding and love building Web Apps.<br />
-
-### [😀 More about me !!](https://surajgupta-git.github.io/portfolio-2/)
+My passion lies in solving complex engineering problems, designing resilient systems, and leveraging emerging AI technologies to create meaningful business impact.
 
 ---
 
-### Languages, Tools & Technologies:
+## 🚀 What I'm Currently Working On
 
-
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][resources]
-[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][resources]
-[<img align="left" alt="C#" width="35px" src="https://user-images.githubusercontent.com/66148226/128506236-a0285195-cd7b-4e90-b006-6a9bfb27c2eb.png" />][resources]
-[<img align="left" alt="HTML" width="35px" src="https://user-images.githubusercontent.com/66148226/128506571-beab6911-692d-48ae-b3b1-ea3d3d78e52c.png" />][resources]
-[<img align="left" alt="CSS" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />][resources]
-[<img align="left" alt="JS" width="35px" src="https://user-images.githubusercontent.com/66148226/128506828-01f74d08-ff49-4621-8ead-bcdd4674a3d2.png" />][resources]
-[<img align="left" alt="Kubernetes" width="35px" src="https://user-images.githubusercontent.com/66148226/128506883-bdee27fb-e831-4493-b198-74a1eb4958c5.png" />][resources]
-[<img align="left" alt="React JS" width="35px" src="https://user-images.githubusercontent.com/66148226/128507502-cd6a43eb-6fdd-4e51-b5c0-8cc7c5e8ab3f.png" />][resources]
-[<img align="left" alt="Node JS" width="35px" src="https://user-images.githubusercontent.com/66148226/128507571-c0236352-608e-4296-be4b-55301cb9dceb.png" />][resources]
-[<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][resources]
-[<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][resources]
-[<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][resources]
-[<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/aws/aws.png" />][resources]
-[<img align="left" alt="TensorFlow" width="40px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][resources]
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][resources]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][resources]
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][resources]<br />
-<br />
-<br />
-
+- Agentic AI Applications
+- Model Context Protocol (MCP) Servers
+- Amazon Bedrock & Claude
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search & Vector Databases
+- Event-Driven Architectures
+- Distributed Systems on AWS
+- Full Stack Product Development
 
 ---
 
-### Connect with me:
+## 💼 Professional Experience
 
-[<img align="left" width="40px" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
-[<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
-[<img align="left" width="40px" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
-[<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
+### Amazon | Software Development Engineer II
+Austin, TX | Dec 2024 - Present
 
+- Built AI-powered product support chatbot using Amazon Bedrock, RAG, OpenSearch, DocumentDB, API Gateway, Lambda, and React.
+- Developed custom MCP servers enabling AI agents to interact with enterprise APIs, DynamoDB, OpenSearch, and CloudWatch.
+- Designed semantic search platform using Bedrock embeddings and OpenSearch vector indexing.
+- Led zero-downtime migration of 100K+ records from DynamoDB to S3 while maintaining search functionality and business continuity.
+- Built scalable AWS-native reporting platform using ECS, GraphQL, Kotlin, React, and S3.
+- Automated large-scale validation and migration workflows saving significant engineering effort annually.
 
-[GitHub]: https://github.com/surajgupta-git
-[instagram]: https://www.instagram.com/suraj.gupta_sg/
-[linkedin]: https://www.linkedin.com/in/surajguptagudla/
-[FaceBook]: https://www.facebook.com/SurajGupta.Gudla/
-[resources]: https://surajgupta-git.github.io/portfolio-2/
+### Amazon Web Services (AWS) | Software Development Engineer I
+Seattle, WA | Jul 2022 - Nov 2024
+
+- Developed funding platform services supporting 180K+ AWS Marketplace customers.
+- Built event-driven microservices using Lambda, Step Functions, DynamoDB, and API Gateway.
+- Developed React-based customer-facing portals and GraphQL integrations.
+- Implemented observability solutions using CloudWatch, RUM, custom metrics, alarms, and dashboards.
+- Designed search, reporting, and funding management workflows used by AWS Marketplace partners.
+
+### NCR Corporation | Software Engineer 1
+Hyderabad, India | Jul 2018 - Dec 2020
+
+- Developed enterprise ATM software and security solutions for global banking customers. Worked on Windows security hardening, BIOS-level security, disk encryption, automation frameworks, deployment tooling, and operational reliability using C#, .NET, SQL Server, Active Directory, and automation scripting.
+---
+
+## 🛠 Technical Skills
+
+### Languages
+Java • Kotlin • Python • JavaScript • TypeScript • Node.js • C# • Bash • PowerShell
+
+### Backend
+Spring Boot • FastAPI • REST APIs • GraphQL • JPA • Microservices • Event-Driven Architecture
+
+### Frontend
+React • TypeScript • JavaScript • HTML • CSS • Cloudscape Design System
+
+### Cloud & Infrastructure
+AWS Lambda • ECS • S3 • DynamoDB • OpenSearch • AppSync • API Gateway • Cognito • CloudWatch • CloudFormation
+
+### Databases
+DynamoDB • PostgreSQL • MongoDB • DocumentDB • SQL Server
+
+### DevOps
+Docker • Kubernetes • Jenkins • GitHub Actions • CI/CD
+
+### AI & GenAI
+Amazon Bedrock • Claude • Agentic AI • MCP • RAG • Vector Search • Prompt Engineering • Tool Calling
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/surajguptagudla/
+
+📧 Email: surajgupta268@gmail.com
+
+📍 Austin, Texas
+
+---
+
+> Building scalable cloud-native systems and AI-powered products that solve real-world problems.
