@@ -11,13 +11,10 @@ My passion lies in solving complex engineering problems, designing resilient sys
 ## 🚀 What I'm Currently Working On
 
 - Agentic AI Applications
-- Model Context Protocol (MCP) Servers
-- Amazon Bedrock & Claude
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search & Vector Databases
-- Event-Driven Architectures
 - Distributed Systems on AWS
-- Full Stack Product Development
+- Full Stack Product Design & Development
+- Event-Driven Architectures
+- Cloud Native API Development
 
 ---
 
